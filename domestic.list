@@ -1,1 +1,8 @@
+# DOMAIN (精确匹配)
+# DOMAIN-SUFFIX (后缀匹配)
+# DOMAIN-KEYWORD (关键字匹配)
+# IP-CIDR  (IP)
+# 格式参考 https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Whatsapp/Whatsapp.list
 
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-cn.com
