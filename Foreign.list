@@ -8,13 +8,20 @@ DOMAIN-SUFFIX,fnvpn1.net
 DOMAIN-SUFFIX,xcvvpn.app
 DOMAIN-SUFFIX,xn--wtq35pfyd55o.co
 DOMAIN-SUFFIX,便宜机场.co
+
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,finance.yahoo.com
+
+# Msx
 DOMAIN-SUFFIX,msx.com
 DOMAIN-SUFFIX,mystonks.org
+
 DOMAIN-SUFFIX,interactivebrokers.com
+
+# Safepal
 DOMAIN-SUFFIX,safepal.com
 DOMAIN-SUFFIX,zendesk.com
+
 # Docker
 DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 DOMAIN,docker-pinata-support.s3.amazonaws.com
